@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordian matches the snapshots of Accordian component 1`] = `
+<Styled(WithStyles(ExpansionPanel))>
+  <Styled(WithStyles(ExpansionPanelSummary)) />
+  <WithStyles(ExpansionPanelDetails) />
+</Styled(WithStyles(ExpansionPanel))>
+`;

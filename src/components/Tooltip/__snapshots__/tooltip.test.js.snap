@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders without crashing 1`] = `
+<Styled(WithStyles(Tooltip))
+  title="Add"
+>
+  <WithStyles(Fab)
+    color="primary"
+  />
+</Styled(WithStyles(Tooltip))>
+`;
+
+exports[`ToolTip renders without crashing 1`] = `
+<Styled(WithStyles(Tooltip))
+  title="Add"
+>
+  <WithStyles(Fab)
+    color="primary"
+  />
+</Styled(WithStyles(Tooltip))>
+`;
+
+exports[`renders without crashing 1`] = `
+<Styled(WithStyles(Tooltip))
+  title="Add"
+>
+  <WithStyles(Fab)
+    color="primary"
+  />
+</Styled(WithStyles(Tooltip))>
+`;

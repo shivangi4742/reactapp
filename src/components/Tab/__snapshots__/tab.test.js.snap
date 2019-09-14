@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tab renders without crashing 1`] = `
+<WithStyles(Paper)>
+  <WithStyles(Tabs)
+    centered={true}
+    indicatorColor="primary"
+    onChange={1}
+    textColor="primary"
+    value={0}
+  >
+    <WithStyles(Tab)
+      key="0"
+      label="daily"
+    />
+    <WithStyles(Tab)
+      key="1"
+      label="weekly"
+    />
+    <WithStyles(Tab)
+      key="2"
+      label="monthly"
+    />
+  </WithStyles(Tabs)>
+</WithStyles(Paper)>
+`;

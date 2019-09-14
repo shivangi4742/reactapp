@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button matches the snapshots of Button component 1`] = `
+<styled.button
+  className="customBtn"
+>
+   
+</styled.button>
+`;
+
+exports[`Button render the primary button 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Button />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        undefined,
+        " ",
+      ],
+      "className": "customBtn",
+    },
+    "ref": null,
+    "rendered": Array [
+      undefined,
+      " ",
+    ],
+    "type": Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "sc-bdVaJa",
+        "isStatic": false,
+        "rules": Array [
+          "
+    border: none;
+    background: transparent;
+    text-align: center;
+    border-radius: ",
+          "4px",
+          ";
+    border: 1px solid ",
+          "
+    color: ",
+          ";
+    width: ",
+          "140",
+          "px;
+    height: ",
+          "32",
+          "px;
+    line-height: ",
+          "32",
+          "px;
+    font-size: ",
+          "16",
+          "px;
+    text-transform: capitalize;
+   ",
+          [Function],
+          "
+   ",
+          [Function],
+          "
+   ",
+          [Function],
+          "
+    ",
+          [Function],
+          "
+    ",
+          [Function],
+          "
+    ",
+          [Function],
+          "
+",
+        ],
+      },
+      "displayName": "styled.button",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "sc-bdVaJa",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    },
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          undefined,
+          " ",
+        ],
+        "className": "customBtn",
+      },
+      "ref": null,
+      "rendered": Array [
+        undefined,
+        " ",
+      ],
+      "type": Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bdVaJa",
+          "isStatic": false,
+          "rules": Array [
+            "
+    border: none;
+    background: transparent;
+    text-align: center;
+    border-radius: ",
+            "4px",
+            ";
+    border: 1px solid ",
+            "
+    color: ",
+            ";
+    width: ",
+            "140",
+            "px;
+    height: ",
+            "32",
+            "px;
+    line-height: ",
+            "32",
+            "px;
+    font-size: ",
+            "16",
+            "px;
+    text-transform: capitalize;
+   ",
+            [Function],
+            "
+   ",
+            [Function],
+            "
+   ",
+            [Function],
+            "
+    ",
+            [Function],
+            "
+    ",
+            [Function],
+            "
+    ",
+            [Function],
+            "
+",
+          ],
+        },
+        "displayName": "styled.button",
+        "foldedComponentIds": Array [],
+        "render": [Function],
+        "styledComponentId": "sc-bdVaJa",
+        "target": "button",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      },
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;

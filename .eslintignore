@@ -1,0 +1,5 @@
+src/serviceWorker.ts
+src/global.typings.d.ts
+src/react-app-env.d.ts
+node_modules
+build

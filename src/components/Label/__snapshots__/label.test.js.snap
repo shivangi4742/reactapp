@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Labels should render the label 1`] = `
+<styled.span
+  status="active"
+>
+  <styled.span>
+    active
+  </styled.span>
+</styled.span>
+`;
+
+exports[`Labels should render the label with different label color 1`] = `
+<styled.span
+  status="inactive"
+>
+  <styled.span>
+    inactive
+  </styled.span>
+</styled.span>
+`;
